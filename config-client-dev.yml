@@ -1,8 +1,2 @@
 version: 0.0.1
-author: obedeoom
-spring:
-  cloud:
-    refresh:
-      extra-refreshable:
-      - HelloController
-  
+author: obed
